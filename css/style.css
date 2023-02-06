@@ -1,0 +1,62 @@
+
+
+.color-flipper{
+   box-shadow:  0px 3px 2px #aab2bd;
+   background: white;
+ 
+}
+
+.flipper{
+    text-align: center;
+    padding: 2rem 3px;
+    font-size: 3rem;
+    color: lightblue;
+    background:none;
+    font-weight: bold;
+}
+.simple {
+    text-align: right;
+    padding: 2rem 3px;
+    font-size: 3rem;
+    background:none;  
+}
+.hex{
+    text-align: left;
+    padding: 2rem 3px;
+    font-size: 3rem;
+    background: none;
+
+}
+.button{
+    color: black;
+    border: 0.5rem solid black;
+    margin: 0 30rem;
+    padding: 1rem 1rem;
+    width: 22rem;
+    border-radius: 12px;
+    height: 10rem;
+    font-size: 3rem;
+}
+.button:hover{
+    cursor: pointer;
+    box-shadow: 0 0.4rem 0 rgba(86, 165, 235,  0.5);
+    transform: translateY(-1rem);
+    transition: transform 12ms;
+    color: black;
+}
+  .container h2{
+      background-color: #000;
+      color: white;
+      text-align: center;
+      border-radius: 5rem;
+      padding: 10rem 13rem;
+      margin-top: 23rem;
+      margin-bottom: 12rem;
+      font-size: 5rem;
+      font-weight: bolder;
+
+  }
+  .container h2 span{
+      color: blue;
+      background: none;
+  }
